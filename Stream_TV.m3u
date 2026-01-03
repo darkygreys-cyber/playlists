@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#
 #PLAYLIST:AceStreamTV
 #
+#====================Кино====================#
 #EXTINF:-1  group-title="Кино"  tvg-id="fanhd" ,FAN HD
 http://127.0.0.1:6880/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="kino-tv" ,КИНО ТВ HD
@@ -118,6 +118,8 @@ http://127.0.0.1:6880/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&
 http://127.0.0.1:6880/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="nashe-lubimoe-hd" ,Наше любимое HD
 http://127.0.0.1:6880/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
+#EXTINF:-1  group-title="Эфирные"  tvg-id="russkaya-komedia" ,Русская комедия
+http://127.0.0.1:6880/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="kamedi" ,Камеди HD
 http://127.0.0.1:6880/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="komedijnoe-hd" ,Комедийное HD
@@ -169,6 +171,7 @@ http://127.0.0.1:6880/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&
 #EXTINF:-1  group-title="Кино"  tvg-id="bollywood-hd" ,Bollywood HD
 http://127.0.0.1:6880/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
 #
+#====================Сериалы====================#
 #EXTINF:-1  group-title="Сериалы"  tvg-id="kinoseria" ,КИНОСЕРИЯ HD
 http://127.0.0.1:6880/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
 #EXTINF:-1  group-title="Сериалы"  tvg-id="bcu-ruserial" ,BCU Ruserial HD
@@ -212,6 +215,7 @@ http://127.0.0.1:6880/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&
 #EXTINF:-1  group-title="Сериалы"  tvg-id="bcu-svaty" ,BCU Сваты HD
 http://127.0.0.1:6880/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
 #
+#====================Детские====================#
 #EXTINF:-1  group-title="Детские"  tvg-id="bcu-multserial" ,BCU Мультсериал
 http://127.0.0.1:6880/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
 #EXTINF:-1  group-title="Детские"  tvg-id="bcu-kids" ,BCU Kids HD
@@ -263,6 +267,7 @@ http://127.0.0.1:6880/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&
 #EXTINF:-1  group-title="Детские"  tvg-id="multimuzyka" ,Мультимузыка
 http://127.0.0.1:6880/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 #
+#====================Кинозалы====================#
 #EXTINF:-1  group-title="Кинозалы" ,Usba Кинозал 36
 http://127.0.0.1:6880/ace/getstream?id=f7a866d8cf14431af3830bd52c23bbd9ee10ab05
 #EXTINF:-1  group-title="Кинозалы" ,Usba Кинозал 37
@@ -340,6 +345,7 @@ http://127.0.0.1:6880/ace/getstream?id=c7adacaa945d7aedb0681c34b7dbfdcb4acf42ee&
 #EXTINF:-1  group-title="Кинозалы" ,KINO зал
 http://127.0.0.1:6880/ace/getstream?id=3f5619f1c8903a854dd2b02fc13542a7145befc0&pid=2074
 #
+#====================КиноUA====================#
 #EXTINF:-1  group-title="КиноUA"  tvg-id="tvoje-kino-xit" ,Xit TVOE Kino HD
 http://127.0.0.1:6880/ace/getstream?id=2e0ca27d3a15118fadfa37a160afd28a8eb3a879
 #EXTINF:-1  group-title="КиноUA" ,No name 1
@@ -353,6 +359,7 @@ http://127.0.0.1:6880/ace/getstream?id=5a20d2308fac7f1ca9f269db3db5301745d3d312
 #EXTINF:-1  group-title="КиноUA" ,Хит Комедия HD
 http://127.0.0.1:6880/ace/getstream?id=42a71793575e9039ab7f5a0e22c7fa118b97850e
 #
+#====================Познавательные====================#
 #EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" ,Animal Planet HD
 http://127.0.0.1:6880/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" ,Discovery HD
@@ -398,6 +405,7 @@ http://127.0.0.1:6880/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&
 #EXTINF:-1  group-title="Познавательные"  tvg-id="nostalgia" ,Ностальгия
 http://127.0.0.1:6880/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
 #
+#====================Хобби и увлечения====================#
 #EXTINF:-1  group-title="Хобби и увлечения"  tvg-id="travel-channel" ,Travel Channel HD
 http://127.0.0.1:6880/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
 #EXTINF:-1  group-title="Хобби и увлечения"  tvg-id="travel-adventure" ,Travel+Adventure HD
@@ -441,6 +449,7 @@ http://127.0.0.1:6880/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&
 #EXTINF:-1  group-title="Хобби и увлечения"  tvg-id="fastfunbox-hd" ,Fast&Funbox HD
 http://127.0.0.1:6880/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
 #
+#====================Эфирные====================#
 #EXTINF:-1  group-title="Эфирные"  tvg-id="sts" ,СТС HD
 http://127.0.0.1:6880/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="sts-love" ,СТС Love
@@ -451,8 +460,6 @@ http://127.0.0.1:6880/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&
 http://127.0.0.1:6880/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89168bd&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="super" ,Суббота HD
 http://127.0.0.1:6880/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
-#EXTINF:-1  group-title="Эфирные"  tvg-id="russkaya-komedia" ,Русская комедия
-http://127.0.0.1:6880/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="russky-detektiv" ,Русский детектив
 http://127.0.0.1:6880/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="russky-bestseller" ,Русский бестселлер
@@ -472,6 +479,7 @@ http://127.0.0.1:6880/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&
 #EXTINF:-1  group-title="Эфирные"  tvg-id="dozhd" ,Дождь
 http://127.0.0.1:6880/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
 #
+#====================Музыкальные====================#
 #EXTINF:-1  group-title="Музыкальные" ,Музыка кино International
 http://127.0.0.1:6880/ace/getstream?id=8922e2a921a472f0ae38a8c901e9f7ff8a02acec
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="multimuzyka" ,Мультимузыка
@@ -513,4 +521,5 @@ http://127.0.0.1:6880/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="europa-plus-tv" ,Europa Plus TV
 http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #
+
 #EXT-X-ENDLIST
