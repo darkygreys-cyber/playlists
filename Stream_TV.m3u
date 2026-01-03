@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #PLAYLIST:AceStreamTV
-#
 #====================Кино====================#
 #EXTINF:-1  group-title="Кино"  tvg-id="fanhd" ,FAN HD
 http://127.0.0.1:6880/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
@@ -520,6 +519,4 @@ http://127.0.0.1:6880/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&
 http://127.0.0.1:6880/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&.mp4
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="europa-plus-tv" ,Europa Plus TV
 http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
-#
-
 #EXT-X-ENDLIST
