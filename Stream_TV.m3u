@@ -101,6 +101,8 @@ http://127.0.0.1:6880/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6
 http://127.0.0.1:6880/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="ultra-hd-cinema" ,Ultra HD Cinema
 http://127.0.0.1:6880/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
+#EXTINF:-1  group-title="Кино"  tvg-id="domkino" ,Дом кино
+http://127.0.0.1:6880/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="domkino-premium" ,Дом кино премиум HD
 http://127.0.0.1:6880/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="illuzion-plus" ,Иллюзион+ HD
@@ -129,8 +131,6 @@ http://127.0.0.1:6880/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&
 http://127.0.0.1:6880/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="nash-kinopokaz-hd" ,Наш Кинопоказ HD
 http://127.0.0.1:6880/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
-#EXTINF:-1  group-title="Кино"  tvg-id="domkino" ,Дом кино
-http://127.0.0.1:6880/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="kinojam1" ,Киноджем 1 HD
 http://127.0.0.1:6880/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="premialnoe-hd" ,Премиальное HD
@@ -520,6 +520,7 @@ http://127.0.0.1:6880/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="europa-plus-tv" ,Europa Plus TV
 http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXT-X-ENDLIST
+
 
 
 
