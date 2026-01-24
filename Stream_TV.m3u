@@ -119,7 +119,7 @@ http://127.0.0.1:6880/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&
 http://127.0.0.1:6880/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="nashe-lubimoe-hd" ,Наше любимое HD
 http://127.0.0.1:6880/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
-#EXTINF:-1  group-title="Эфирные"  tvg-id="russkaya-komedia" ,Русская комедия
+#EXTINF:-1  group-title="Кино"  tvg-id="russkaya-komedia" ,Русская комедия
 http://127.0.0.1:6880/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
 #EXTINF:-1  group-title="Кино"  tvg-id="kamedi" ,Камеди HD
 http://127.0.0.1:6880/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
@@ -201,6 +201,10 @@ http://127.0.0.1:6880/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&
 http://127.0.0.1:6880/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
 #EXTINF:-1  group-title="Сериалы"  tvg-id="domashny" ,Домашний HD
 http://127.0.0.1:6880/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
+#EXTINF:-1  group-title="Сериалы"  tvg-id="russky-detektiv" ,Русский детектив
+http://127.0.0.1:6880/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
+#EXTINF:-1  group-title="Сериалы"  tvg-id="russky-bestseller" ,Русский бестселлер
+http://127.0.0.1:6880/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
 #EXTINF:-1  group-title="Сериалы"  tvg-id="fox" ,Fox
 http://127.0.0.1:6880/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
 #EXTINF:-1  group-title="Сериалы"  tvg-id="foxlife" ,Fox Life HD
@@ -263,6 +267,64 @@ http://127.0.0.1:6880/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&
 http://127.0.0.1:6880/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&.mp4
 #EXTINF:-1  group-title="Детские"  tvg-id="multimuzyka" ,Мульт и Музыка
 http://127.0.0.1:6880/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#
+#====================Познавательные====================#
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" ,Animal Planet HD
+http://127.0.0.1:6880/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" ,Discovery HD
+http://127.0.0.1:6880/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" ,Viju+ Planet
+http://127.0.0.1:6880/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" ,Viasat Nature HD
+http://127.0.0.1:6880/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" ,Viasat History HD
+http://127.0.0.1:6880/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" ,Viasat Explore HD
+http://127.0.0.1:6880/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="moya-planeta" ,Моя планета HD
+http://127.0.0.1:6880/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-hd" ,RTG HD
+http://127.0.0.1:6880/ace/getstream?id=97986d0a269dce8a930c55c347d63c2445d78e0c
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nauka-20" ,Наука 2.0
+http://127.0.0.1:6880/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" ,National Geographic HD
+http://127.0.0.1:6880/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat Geo Wild HD
+http://127.0.0.1:6880/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="zhivaya-planeta" ,Живая планета
+http://127.0.0.1:6880/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="v-mire-zhivotnyx-hd" ,В мире животных HD
+http://127.0.0.1:6880/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-channel" ,Travel Channel HD
+http://127.0.0.1:6880/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-adventure" ,Travel+Adventure HD
+http://127.0.0.1:6880/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="prikluchenia-hd" ,Приключения HD
+http://127.0.0.1:6880/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="glazami-turista" ,Глазами туриста HD
+http://127.0.0.1:6880/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="russian-extreme-uhd" ,Russian Extreme UHD
+http://127.0.0.1:6880/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="da-vinci" ,Da Vinci
+http://127.0.0.1:6880/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="history-ru" ,History HD
+http://127.0.0.1:6880/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="h2" ,History2 HD
+http://127.0.0.1:6880/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="hd-life" ,Точка РФ
+http://127.0.0.1:6880/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="mir-vokrug" ,Мир вокруг
+http://127.0.0.1:6880/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nano-tv" ,Нано
+http://127.0.0.1:6880/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="eureka-hd" ,Первый космический HD
+http://127.0.0.1:6880/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="tochka-otryva" ,Точка отрыва
+http://127.0.0.1:6880/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="poexali" ,Поехали!
+http://127.0.0.1:6880/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nostalgia" ,Ностальгия
+http://127.0.0.1:6880/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
 #
 #====================Кинозалы====================#
 #EXTINF:-1  group-title="Кинозалы" ,Usba Кинозал 36
@@ -356,64 +418,6 @@ http://127.0.0.1:6880/ace/getstream?id=5a20d2308fac7f1ca9f269db3db5301745d3d312
 #EXTINF:-1  group-title="КиноUA" ,Хит Комедия HD
 http://127.0.0.1:6880/ace/getstream?id=42a71793575e9039ab7f5a0e22c7fa118b97850e
 #
-#====================Познавательные====================#
-#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" ,Animal Planet HD
-http://127.0.0.1:6880/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
-#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" ,Discovery HD
-http://127.0.0.1:6880/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" ,Viju+ Planet
-http://127.0.0.1:6880/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" ,Viasat Nature HD
-http://127.0.0.1:6880/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" ,Viasat History HD
-http://127.0.0.1:6880/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" ,Viasat Explore HD
-http://127.0.0.1:6880/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="moya-planeta" ,Моя планета HD
-http://127.0.0.1:6880/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-hd" ,RTG HD
-http://127.0.0.1:6880/ace/getstream?id=97986d0a269dce8a930c55c347d63c2445d78e0c
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nauka-20" ,Наука 2.0
-http://127.0.0.1:6880/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" ,National Geographic HD
-http://127.0.0.1:6880/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat Geo Wild HD
-http://127.0.0.1:6880/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="zhivaya-planeta" ,Живая планета
-http://127.0.0.1:6880/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="v-mire-zhivotnyx-hd" ,В мире животных HD
-http://127.0.0.1:6880/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-channel" ,Travel Channel HD
-http://127.0.0.1:6880/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-adventure" ,Travel+Adventure HD
-http://127.0.0.1:6880/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="prikluchenia-hd" ,Приключения HD
-http://127.0.0.1:6880/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="glazami-turista" ,Глазами туриста HD
-http://127.0.0.1:6880/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="russian-extreme-uhd" ,Russian Extreme UHD
-http://127.0.0.1:6880/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="da-vinci" ,Da Vinci
-http://127.0.0.1:6880/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="history-ru" ,History HD
-http://127.0.0.1:6880/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="h2" ,History2 HD
-http://127.0.0.1:6880/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="hd-life" ,Точка РФ
-http://127.0.0.1:6880/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="mir-vokrug" ,Мир вокруг
-http://127.0.0.1:6880/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nano-tv" ,Нано
-http://127.0.0.1:6880/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="eureka-hd" ,Первый космический HD
-http://127.0.0.1:6880/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="tochka-otryva" ,Точка отрыва
-http://127.0.0.1:6880/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="poexali" ,Поехали!
-http://127.0.0.1:6880/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nostalgia" ,Ностальгия
-http://127.0.0.1:6880/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
-#
 #====================Хобби и увлечения====================#
 #EXTINF:-1  group-title="Хобби и увлечения"  tvg-id="kuxnia-tv" ,Кухня ТВ
 http://127.0.0.1:6880/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
@@ -459,10 +463,6 @@ http://127.0.0.1:6880/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&
 http://127.0.0.1:6880/ace/getstream?infohash=2b78b24cf202048ce17b9378b52e2fb8f89168bd&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="super" ,Суббота HD
 http://127.0.0.1:6880/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
-#EXTINF:-1  group-title="Эфирные"  tvg-id="russky-detektiv" ,Русский детектив
-http://127.0.0.1:6880/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
-#EXTINF:-1  group-title="Эфирные"  tvg-id="russky-bestseller" ,Русский бестселлер
-http://127.0.0.1:6880/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="romantichnoe-hd" ,Романтичное HD
 http://127.0.0.1:6880/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
 #EXTINF:-1  group-title="Эфирные"  tvg-id="pro-lyubov" ,Про Любовь HD
@@ -520,8 +520,3 @@ http://127.0.0.1:6880/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="europa-plus-tv" ,Europa Plus TV
 http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXT-X-ENDLIST
-
-
-
-
-
