@@ -327,98 +327,6 @@ http://127.0.0.1:6880/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&
 #EXTINF:-1  group-title="Познавательные"  tvg-id="nostalgia" ,Ностальгия
 http://127.0.0.1:6880/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
 #
-#====================Кинозалы====================#
-#EXTINF:-1  group-title="Кинозалы" ,Usba Кинозал 36
-http://127.0.0.1:6880/ace/getstream?id=f7a866d8cf14431af3830bd52c23bbd9ee10ab05
-#EXTINF:-1  group-title="Кинозалы" ,Usba Кинозал 37
-http://127.0.0.1:6880/ace/getstream?id=5d8a025b0a8665c4b23cd9d997a94adff733bd17
-#EXTINF:-1  group-title="Кинозалы" ,Retrovision Кинопанорама
-http://127.0.0.1:6880/ace/getstream?id=0fbe164ab97e42bfd168352d8882e2e8e9bf4121
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 1
-http://127.0.0.1:6880/ace/getstream?id=86ebd2825e6317a6ff94ec2e0768e79d97ef8330&pid=15195
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 2
-http://127.0.0.1:6880/ace/getstream?id=1400de52d88a0be5e5fe4c505dbe3c800cf916e4&pid=37817
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 3
-http://127.0.0.1:6880/ace/getstream?id=27b6152591d86f184608434d711567c40c100114&pid=6770
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 4
-http://127.0.0.1:6880/ace/getstream?id=f1d5bf98a4558aee39f126da8d5e264b744dd649&pid=9240
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 5
-http://127.0.0.1:6880/ace/getstream?id=9fd49f29afe0bfa1aef56551590a07875fd0a352&pid=45050
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 6
-http://127.0.0.1:6880/ace/getstream?id=393cbb001f222a3540033999d60ddb7983ffeead&pid=42985
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 7 
-http://127.0.0.1:6880/ace/getstream?id=0f372bc4499588af4f66e40df1bb19b014917347&pid=36349
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 8 
-http://127.0.0.1:6880/ace/getstream?id=1d09c399ed709a4391a19dd00988840e157da993&pid=22053
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 9 
-http://127.0.0.1:6880/ace/getstream?id=ca9f76401cfa780c82f0cb120f80ab589310d454&pid=40030
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 10 
-http://127.0.0.1:6880/ace/getstream?id=aa1ea810e4435afee9a8be1b9b6197b37690689f&pid=27216
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 11
-http://127.0.0.1:6880/ace/getstream?id=dd845623e1f465d636ed7efbd734fa30753d21ec&pid=19562
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 12 
-http://127.0.0.1:6880/ace/getstream?id=fbbf79a937ce0684d4add72a264601275fc8cbf7&pid=1425
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 13 
-http://127.0.0.1:6880/ace/getstream?id=1608df760b878faf4a9ffc64b0e5678bc707cc74&pid=17480
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 14 
-http://127.0.0.1:6880/ace/getstream?id=f9f2e9de9464fc4a182121e6d249b217df40ac51&pid=39154
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 15 
-http://127.0.0.1:6880/ace/getstream?id=027ab9c84885f81b866f07af75f05dd29bb203e7&pid=12114
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 16 
-http://127.0.0.1:6880/ace/getstream?id=6b63d518cd0eed3dbdc16ffbbc6625aadd2d6543&pid=14078
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 17 
-http://127.0.0.1:6880/ace/getstream?id=413c99d28d1182f730ac61d7f4bed8d75be383f4&pid=17825
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 18
-http://127.0.0.1:6880/ace/getstream?id=d69457c90de705cb294f6d813f2903f9242a9f11&pid=13148
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 19
-http://127.0.0.1:6880/ace/getstream?id=a66547c3b58ce02241872de69b62302832846216&pid=19838
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 20 
-http://127.0.0.1:6880/ace/getstream?id=8a3b5e6bbb9d16df6f725a99c5fc29960f26d0b5&pid=35900
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 21 
-http://127.0.0.1:6880/ace/getstream?id=28acd6d11f4d94d33d2859ed859c2e6b5632177c&pid=10426
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 22 
-http://127.0.0.1:6880/ace/getstream?id=980a46ea7e6271d8234a023234c6dc83664da38c&pid=19514
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 23 
-http://127.0.0.1:6880/ace/getstream?id=a7986fa90fa3f45b70ca403deed06ff7a37111a9&pid=31579
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 24 
-http://127.0.0.1:6880/ace/getstream?id=b8de95460d5472eac9b88d35515c9435e6dd70e1&pid=46200
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 25 
-http://127.0.0.1:6880/ace/getstream?id=b9da4372e77f9c0a92bd8e5fca6b53b5986bd3bb&pid=10816
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 26 
-http://127.0.0.1:6880/ace/getstream?id=131e49f0ea693b7682b130fadbd63708069c4be0&pid=26219
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 27 
-http://127.0.0.1:6880/ace/getstream?id=90abf82574f001d01df890dec96dae40e5bf7a26&pid=30598
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 28 	
-http://127.0.0.1:6880/ace/getstream?id=2478f72db1252e85784234b0ae317e2310190691&pid=579
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 29 
-http://127.0.0.1:6880/ace/getstream?id=1af374930b9630a311733ac19667badd54a66bbc&pid=17259
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 30
-http://127.0.0.1:6880/ace/getstream?id=24073d59ff6eeb0a0c76b58ec42ed8e4e63dc539&pid=49891
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 31 
-http://127.0.0.1:6880/ace/getstream?id=df7a9d7e737f7aeb6353b41cfc595647bda8e389&pid=16165
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 33
-http://127.0.0.1:6880/ace/getstream?id=662f445ccd91296de59042c688e973796812b43d&pid=41752
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 34
-http://127.0.0.1:6880/ace/getstream?id=753a04062f92501b52b16813ee7eaec70f58c7d7&pid=44054
-#EXTINF:-1  group-title="Кинозалы" ,Кинозалы 35 
-http://127.0.0.1:6880/ace/getstream?id=c7adacaa945d7aedb0681c34b7dbfdcb4acf42ee&pid=9130
-#EXTINF:-1  group-title="Кинозалы" ,KINO зал
-http://127.0.0.1:6880/ace/getstream?id=3f5619f1c8903a854dd2b02fc13542a7145befc0&pid=2074
-#
-#====================КиноUA====================#
-#EXTINF:-1  group-title="КиноUA"  tvg-id="tvoje-kino-xit" ,Xit TVOE Kino HD
-http://127.0.0.1:6880/ace/getstream?id=2e0ca27d3a15118fadfa37a160afd28a8eb3a879
-#EXTINF:-1  group-title="КиноUA" ,No name 1
-http://127.0.0.1:6880/ace/getstream?id=55889766863e9441774ee7e9f717bd661324f315
-#EXTINF:-1  group-title="КиноUA" ,No name 2
-http://127.0.0.1:6880/ace/getstream?id=c7146e0b53eae3367b0b13fc33859ed0a9019612
-#EXTINF:-1  group-title="КиноUA" ,No name 3
-http://127.0.0.1:6880/ace/getstream?id=84e678e7cb117d23ea696af5bb6d8f6cf82c5bab
-#EXTINF:-1  group-title="КиноUA"  tvg-id="4ever-cinema" ,4ever Cinema
-http://127.0.0.1:6880/ace/getstream?id=5a20d2308fac7f1ca9f269db3db5301745d3d312
-#EXTINF:-1  group-title="КиноUA" ,Хит Комедия HD
-http://127.0.0.1:6880/ace/getstream?id=42a71793575e9039ab7f5a0e22c7fa118b97850e
-#
 #====================Хобби и увлечения====================#
 #EXTINF:-1  group-title="Хобби и увлечения"  tvg-id="kuxnia-tv" ,Кухня ТВ
 http://127.0.0.1:6880/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
@@ -521,8 +429,3 @@ http://127.0.0.1:6880/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="europa-plus-tv" ,Europa Plus TV
 http://127.0.0.1:6880/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXT-X-ENDLIST
-
-
-
-
-
